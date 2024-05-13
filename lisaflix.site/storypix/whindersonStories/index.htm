@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pay67.appstorypix.pro/path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../ajax/libs/font-awesome/6.5.1/css/all.min-24.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <title>Document</title>
+    <script disable-devtool-auto="" src='../../npm/disable-devtool-25'></script>
+    <script src="../protect-8.js"></script>
+    <script src="../../ajax/libs/jquery/3.7.1/jquery.min-24.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <script>
+    let currentSlide = 1; 
+     $(document).ready(function() {
+         setTimeout(() => {
+             $('#progress-2').addClass('active');
+             $('#img-1').removeClass('active');
+             $('#img-2').addClass('active');
+             currentSlide = 2; 
+         }, 6000);
+ 
+         setTimeout(() => {
+             currentSlide = 3; 
+             $('#progress-3').addClass('active');
+             $('#img-2').removeClass('active');
+             $('#img-3').addClass('active');
+         }, 12000);
+ 
+         setTimeout(() => {
+             window.location.href= '../whindersonFinal'
+         }, 18000);
+ 
+ 
+ $('.stories').click(function() {
+     if (currentSlide == 1) {
+ 
+     $(`#progress-${currentSlide}`).removeClass('active').addClass('next')
+     $(`#progress-${currentSlide + 1}`).addClass('active');
+     $(`#img-${currentSlide}`).removeClass('active');
+     $(`#img-${currentSlide + 1}`).addClass('active');
+ 
+     } else if (currentSlide == 2) {
+     $(`#progress-${currentSlide}`).removeClass('active').addClass('next')
+       $(`#progress-${currentSlide + 1}`).addClass('active');
+     $(`#img-${currentSlide}`).removeClass('active');
+     $(`#img-${currentSlide + 1}`).addClass('active');
+     } else {
+       window.location.href= '../whindersonFinal'
+ 
+     }
+ 
+     currentSlide++;
+ });
+     })
+   </script>
+  <audio id="audio" src="cash.mp3"></audio>
+
+  <body style="background-color: black;">
+    <div class="header">
+        <div class="d-flex" style="justify-content: space-between;">
+            <div class="progress progress-striped " style="width: 33%;">
+                <div class="progress-bar active" id="progress-1">
+                </div>                       
+              </div> 
+              <div class="progress progress-striped" style="width: 33%;">
+                <div class="progress-bar" id="progress-2">
+                </div>                       
+              </div> 
+              <div class="progress progress-striped" style="width: 33%;">
+                <div class="progress-bar" id="progress-3">
+                </div>                       
+              </div> 
+        </div>
+        <div class="d-flex" style="justify-content: space-between; align-items: center; padding: 0px 5px;">
+            <div class="profile">
+                <img src="perfil.png" alt="">
+                <div class="d-flex" style="flex-direction: column;">
+                    <span>whinderson</span>
+                    <img src="../../512/7641/7641727-22.png" style="width: 13px; height: 13px;" alt="">
+                </div>
+            </div>
+            <div class="time">
+                <span>33 minutos</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="stories">
+        <img id="img-1" class="active" src="post1.png" alt="">
+        <img id="img-2" src="post2.png" alt="">
+        <img id="img-3" src="post3.png" alt="">
+
+    </div>
+  </body>
+  
+  <script src="script.js"></script>
+</html>
