@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pay67.appstorypix.pro/path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../ajax/libs/font-awesome/6.5.1/css/all.min-5.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <title>Document</title>
+    <script disable-devtool-auto="" src='../../npm/disable-devtool-6'></script>
+    <script src="../protect.js"></script>
+    <script src="../../ajax/libs/jquery/3.7.1/jquery.min-5.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <script>
+    $(document).ready(function() {
+      $('.nao').click(function() {
+        $('#audio')[0].play();
+        console.log('hudas')
+        setTimeout(() => {
+          window.location.href= './foto2.html'  
+        }, 1500);
+        
+      })
+
+      $('.sim').click(function() {
+        $('#audio')[0].play();
+        console.log('hudas')
+        setTimeout(() => {
+          window.location.href= './foto2.html'  
+        }, 1500);
+        
+      })
+      $('.btn-pop-out-foto').click(function() {
+        $(".pop").addClass("d-none");
+      });
+
+      $('.btn').click(function() {
+            window.location.href= '../anitta'  
+        })
+    })
+  </script>
+  <audio id="audio" src="cash.mp3"></audio>
+
+  <body style="background-color: white;">
+    <header>
+      <img src="logo.png" alt="" style="width: 150px;">
+      <span class="saldo">R$ 50,00</span>
+    </header>
+    <div class="pop d-none">
+      <div class="pop-out-foto">
+        <h1 style="color: #FC0062;">PARABÉNS!</h1>
+        <p style="font-size: 15px;">Você recebeu o acesso gratuito ao StoryPix e ganhou <span style="color: rgb(96, 201, 96); font-weight: bold;">R$ 50,00!</span></p>
+        <p style="font-size: 15px; margin-top: 5px;">Faça 3 avaliações para aumentar seu saldo e realizar o primeiro<span style=" font-weight: 600;"> SAQUE.</span></p>
+        <a class="btn-pop-out-foto">COMEÇAR</a>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="title">
+        <h2>
+          Seja pago  <br>
+          pela suas  <br>
+          opiniões
+        </h2>
+        <p>Assista todos os stories e transforme opiniões em ganhos no maior lugar que une criatividade e conexão</p>
+  
+        <div class="perfil">
+          <img src="anitta.png" alt="">
+        </div>
+        <p style="margin: 0 auto !important; display: flex; text-align: center; align-items: center; justify-content: center;">Annita <img src="../../512/7641/7641727-5.png" style="width: 15px;" alt=""></p>
+        <button class="btn">ASSISTIR</button>
+      </div>
+    </div>
+
+
+    
+  </body>
+  
+  <script src="script.js"></script>
+</html>

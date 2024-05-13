@@ -1,0 +1,480 @@
+Uri: https://br.web.img2.acsta.net/pictures/20/11/19/16/21/4456129.jpg
+File Name: C:\Downloaded Web Sites\lisaflix.site\pictures\20\11\19\16\21\4456129-16.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool
+File Name: C:\Downloaded Web Sites\lisaflix.site\npm\disable-devtool-17
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\css\all.min-16.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400-16.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400-16.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400-16.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400-16.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900-16.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900-16.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility-16.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility-16.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\ajax\libs\jquery\3.7.1\jquery.min-16.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\lisaflix.site\css2-32
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\lisaflix.site\css2-33
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiEyp8kv8JHgFVrFJA-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw-16.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\s\roboto\v30\KFOmCnqEu92Fr1Me5Q-16.ttf
+Content Type: font/ttf
+
+Uri: https://img.freepik.com/premium-vector/vertical-background-with-smooth-gradient-vector-illustration_522680-306.jpg
+File Name: C:\Downloaded Web Sites\lisaflix.site\premium-vector\vertical-background-with-smooth-gradient-vector-illustration_522680-306-16.jpg
+Content Type: image/jpeg
+
+Uri: https://lisaflix.site/storypix/protect.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\protect-10.js
+Content Type: application/x-javascript
+
+Uri: https://lisaflix.site/storypix/saque/
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\saque\index.htm
+Content Type: text/html
+
+Uri: https://lisaflix.site/storypix/saque/logo.png
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\saque\logo.png
+Content Type: image/png
+
+Uri: https://lisaflix.site/storypix/saque/script.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\saque\script.js
+Content Type: application/x-javascript
+
+Uri: https://lisaflix.site/storypix/saque/style.css
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\saque\style.css
+Content Type: text/css
+
+Uri: https://lucamoreira.com.br/wp-content/uploads/2024/02/4146-1-Copy-4.jpg
+File Name: C:\Downloaded Web Sites\lisaflix.site\wp-content\uploads\2024\02\4146-1-Copy-4-16.jpg
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/F7yGWuaXoAAWiJM?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\F7yGWuaXoAAWiJM-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/F9xDMdnXMAAZr7Z?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\F9xDMdnXMAAZr7Z-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/FmSZ7qyXoAAS0i2?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\FmSZ7qyXoAAS0i2-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GAHj-aeWgAAZFgl?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GAHj-aeWgAAZFgl-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GBp-tSzWUAAjd1D?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GBp-tSzWUAAjd1D-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GBUTyMjWkAAXCro?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GBUTyMjWkAAXCro-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GCY5aC0XQAAwG5K?format=jpg&name=medium
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GCY5aC0XQAAwG5K-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GDzaRajXoAAQFLD?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GDzaRajXoAAQFLD-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GFgeGqXXwAAKu_i?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GFgeGqXXwAAKu_i-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GGGEKJzXkAASTpR?format=jpg&name=4096x4096
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GGGEKJzXkAASTpR-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GGpOLuJXkAAw8X1?format=jpg&name=large
+File Name: C:\Downloaded Web Sites\lisaflix.site\media\GGpOLuJXkAAw8X1-16
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/profile_images/1744969788667944960/UzakZoiv_400x400.jpg
+File Name: C:\Downloaded Web Sites\lisaflix.site\profile_images\1744969788667944960\UzakZoiv_400x400-16.jpg
+Content Type: image/jpeg
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.png
+File Name: C:\Downloaded Web Sites\lisaflix.site\wikipedia\commons\1\15\Santos_Logo-16.png
+Content Type: image/png
+
+Uri: https://uploads.metropoles.com/wp-content/uploads/2024/02/02075944/Whindersson-Nunes-24.jpg
+File Name: C:\Downloaded Web Sites\lisaflix.site\wp-content\uploads\2024\02\02075944\Whindersson-Nunes-24-16.jpg
+Content Type: image/jpeg
+
+Uri: https://yt3.googleusercontent.com/EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj
+File Name: C:\Downloaded Web Sites\lisaflix.site\EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj-16
+Content Type: image/jpeg
+
+ites\lisaflix.site\EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj-15
+Content Type: image/jpeg
+
+2\02075944\Whindersson-Nunes-24-14.jpg
+Content Type: image/jpeg
+
+Uri: https://yt3.googleusercontent.com/EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj
+File Name: C:\Downloaded Web Sites\lisaflix.site\EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj-14
+Content Type: image/jpeg
+
+075944\Whindersson-Nunes-24-13.jpg
+Content Type: image/jpeg
+
+Uri: https://yt3.googleusercontent.com/EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj
+File Name: C:\Downloaded Web Sites\lisaflix.site\EoY3cBNK1JTKdasruJrKDNoAULqv5NafU1zOyAvISMwBVlM1l0W4bclIiHVJ9AjR5iOmkWS9Dw=s900-c-k-c0x00ffffff-no-rj-13
+Content Type: image/jpeg
+
+t Type: image/jpeg
+
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\Poppins-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\Poppins-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/Radian-Regular.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\Radian-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/RecoletaAlt-Black.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\RecoletaAlt-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/RecoletaAlt-Bold.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\RecoletaAlt-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/RecoletaAlt-Medium.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\RecoletaAlt-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/fonts/RecoletaAlt-Regular.ttf
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\fonts\RecoletaAlt-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lisaflix.site/storypix/inicio/images/faveicon.png
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\images\faveicon.png
+Content Type: image/png
+
+Uri: https://lisaflix.site/storypix/inicio/js/funcoes.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\js\funcoes.js
+Content Type: application/x-javascript
+
+Uri: https://lisaflix.site/storypix/inicio/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\inicio\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://lisaflix.site/storypix/protect.js
+File Name: C:\Downloaded Web Sites\lisaflix.site\storypix\protect.js
+Content Type: application/x-javascript
+
