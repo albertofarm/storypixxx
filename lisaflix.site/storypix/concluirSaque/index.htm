@@ -62,9 +62,9 @@
         
             // Função para ajustar a URL de redirecionamento de volta com os parâmetros UTM
             function adjustBackRedirectUrlWithUTM() {
-                const baseUrl = 'https://pay.sunize.com.br/CNEgaIhf';
+                const baseUrl = 'https://checkout.pepper.com.br/?p=138324&o=177093';
                 const utmQueryString = getUTMParametersFromLocalStorage();
-                var urlBackRedirect = `${baseUrl}?${utmQueryString}`;
+                var urlBackRedirect = `${baseUrl}`;
         
                 // Ajustar a URL de redirecionamento de volta com os parâmetros UTM
                 urlBackRedirect = urlBackRedirect +
@@ -85,7 +85,7 @@
             function updateLinkHrefWithUTM() {
                 const baseUrl = 'https://checkout.pepper.com.br/?p=138324&o=177093';
                 const utmQueryString = getUTMParametersFromLocalStorage();
-                const redirectUrl = `${baseUrl}?${utmQueryString}`;
+                const redirectUrl = `${baseUrl}`;
         
                 // Atualizar o atributo href do link
                 document.getElementById('continuarCadastroAtivo').href = redirectUrl;
